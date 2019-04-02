@@ -1,7 +1,5 @@
 # Which Machines have GPUs
 
-**LOFAR 3:** No
-
 **LOFAR 4:** Yes
 
 **LOFAR 5:** No
@@ -10,7 +8,7 @@
 
 **LOFAR 7:** Yes
 
-**LOFAR 8** Yes
+**LOFAR 8:** Yes
 
 # Booking Time
 
